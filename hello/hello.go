@@ -3,14 +3,11 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, World!")
+	myString := "resumesjnkf;vfnnln"
+	fmt.Println(len(myString))
+}
 
-	var intNum int = 32542
-	fmt.Println(intNum)
-
-	var myString string = "Hello"
-
-	fmt.Println(myString)
-
-	var var1, var2 int = 1, 2
+func he() {
+	myString := "resumesjnkf;vfnnln"
+	fmt.Println(len(myString))
 }
